@@ -3,7 +3,7 @@
 <!-- AI-themed Header Animation -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-# ⚡ EKLAVYA SINGH ⚡
+# ⚡ Ankit Prajapati ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%A1+Full+Stack+Architect;%F0%9F%A4%96+AI+Explorer;%F0%9F%8C%90+Tech+Innovator;%F0%9F%94%AE+Future+Builder;%F0%9F%8E%AF+Prompt+Engineer)](https://git.io/typing-svg)
 
